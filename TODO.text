@@ -4,8 +4,10 @@
 
 3. Database Model
 
-4. Create API -->Postman Call
+4. Create API -->Postman Test
 
-5.Read API --> Postman Call
+5. Read API --> Postman Test
 
-6.
+6. Update API --> Postman Test
+
+7. Delete API --> Postman Test
