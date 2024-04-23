@@ -40,7 +40,6 @@ exports.ReadByID=async(req,res)=>{
 exports.Update=async(req,res)=>{
     try{
 
-        // By ID OLD -> NEW-> Compare --> Change Column Name-CurrentValue/NewValue/Date--> Insert
 
         let {id}=req.params
         let reqBody=req.body;
