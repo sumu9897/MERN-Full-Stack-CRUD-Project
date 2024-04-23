@@ -1,11 +1,2 @@
-1. npm init --y --> Package.json--> Back-End
-2. app.js --> Back-End Config
-3. index.js--> Complete Project Run
-4. src-->Back-End-->controller/middleware/utility
-5. client-> Front-End->File Folder
-6. app.js--> Structure->connect dist & connect route
-7. index.js--> Back-End Run Here
-8. Run Dev --> Run Prod
-...............................................
-We Need to Implement -> Payment Getway/SMS/Auction Sheet
-9. Prepare Back-End File Folder & Capabilities
+1. Empty Project Structure
+

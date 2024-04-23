@@ -1,12 +1,14 @@
 const express=require('express');
-const InvoiceController=require('../controller/InvoiceController')
+const CrudController=require('../controller/CrudController')
 
 
 const router=express.Router();
 
 
-// Invoice & Payment
-router.get('/CreateInvoice',InvoiceController.CreateInvoice)
+router.post('/Create',CrudController.Create)
+router.get('/Read',CrudController.Read)
+router.post('/Update',CrudController.Update)
+router.get('/Delete',CrudController.Delete)
 
 
 
